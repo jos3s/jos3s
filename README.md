@@ -14,9 +14,11 @@
 
 
 
+
+
 <!--
 **jos3s/jos3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jos3s&layout=compact" style="height=500px;"/></p>
 ### Hi there 👋
 
 ![Linkedin Badge](https://img.shields.io/badge/-jos3s-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos3s/)
