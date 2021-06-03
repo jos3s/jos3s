@@ -31,8 +31,9 @@
    </a>
 </p>
 
+![snake animation](https://github.com/jos3s/jos3s/blob/output/github-contribution-grid-snake.svg)
 
-
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 <!--
 **jos3s/jos3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jos3s&layout=compact" style="height=500px;"/></p>
